@@ -6,8 +6,8 @@ bush/bush_windows_tablet
 | Device                    | Bush Windows tablet                                                                 |
 | Extracted firmware        | firmware_03.fw                                                            |
 | Firmware for gslx680-acpi | silead_ts.fw                                                              |
-| Display resolution        | 1280X1900                                                                  |
-| Touch panel resolution    | 1280x800                                                              |
+| Display resolution        | 1280X800                                                                  |
+| Touch panel resolution    | 1280x1900                                                              |
 | Touch controller          | GSL1680                                                                   |
 | Multitouch support        | Yes (10 points)                                                           |
 | Finger tracking           | Unknow                                                                        |
