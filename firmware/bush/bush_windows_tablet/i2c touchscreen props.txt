@@ -1,0 +1,1 @@
+i2c_touchscreen_props=MSSL1680:touchscreen-min-x=2:touchscreen-min-y=14:touchscreen-size-x=1900:touchscreen-size-y=1280:silead,home-button
